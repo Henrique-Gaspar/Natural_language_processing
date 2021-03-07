@@ -1,2 +1,2 @@
-# Natural_language_processing
-NLP process in python
+# Natural language processing
+My projects of NLP in python
